@@ -1,0 +1,12 @@
+
+
+@font-face {
+	font-family: "primary-font";
+	src: url("./iran-yekan-400.eot");
+	src: url("./fonts/iran-yekan-400.eot?#iefix") format("embedded-opentype"),
+		 url("./fonts/iran-yekan-400.woff2") format("woff2"),
+		 url("./fonts/iran-yekan-400.woff") format("woff"),
+		 url("./fonts/iran-yekan-400.ttf") format("truetype");
+	font-weight: 400;
+}
+
